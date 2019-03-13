@@ -1,0 +1,6 @@
+[submodule "3rd/Moe.UV"]
+	path = 3rd/Moe.UV
+	url = http://github.com/9chu/Moe.UV
+[submodule "3rd/Moe.Core"]
+	path = 3rd/Moe.Core
+	url = http://github.com/9chu/Moe.Core
